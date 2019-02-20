@@ -5,7 +5,7 @@ require 'vendor/autoload.php';
 use Aws\S3\S3Client;
 use Aws\Exception\AwsException;
 
-$bucketName='images.littlehi.com';
+$bucketName='b2c.static.dev';
 
 $notFoundImg='404.jpg';
 
